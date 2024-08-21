@@ -42,7 +42,6 @@ nav{
 header nav div button{
     width: 100px;
     /* height: 100px; */
-    display: flexbox;
 }
 header nav div  a:hover{
 
